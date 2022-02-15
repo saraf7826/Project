@@ -1,0 +1,28 @@
+#Objective
+	1.Personality Traits
+	2.Skills
+	3.Company And Job Profile Name
+	4.Value you’ll add for the employer.
+	5.Experience (If  you have)
+
+1.Personality Traits
+	Well-organized
+	talented data science professional
+	Result-oriented individual
+	Deeply knowledgeable 
+	Proactive, talented, and self-motivated professional
+	Enthusiastic and focused Data Analyst 
+	Hardworking Data Analyst 
+	Detailed and organized data analyst 
+	Data science professional 
+	Responsible and team-oriented Data Analyst 
+	Highly patient
+
+2.Skills
+	Collecting, analyzing, and authenticating, and modeling data set
+	Statistical analysis 
+	 Pinpoint patterns and trends.
+	Interpreting
+
+Proactive, talented, and self-motivated professional desiring the role of a Data Analyst at Express Analytics Inc. where profound analytical and systematic skills will be applied to aid the company accomplish its goals in line with its vision, mission, and corporate values.
+	
